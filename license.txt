@@ -1,4 +1,4 @@
-aWordPress - Web publishing software
+LICENCE 2WordPress - Web publishing software
 
 Copyright 2011-2020 by the contributors
 
